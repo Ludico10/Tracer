@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TejiaRO2u7C0vw9Fl1eVk+rQNJLjp0UmjFHw54IAs4DKjFTAfkt372tqaU9Qfb9EJ4qC3grXsFmR4AA9EW3GSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eugen\\source\\repos\\Tracer.Serialization\\Tracer.Serialization.Yaml\\Tracer.Serialization.Yaml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eugen\\.nuget\\packages\\yamldotnet\\12.0.1\\yamldotnet.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

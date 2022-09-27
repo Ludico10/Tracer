@@ -1,0 +1,17 @@
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\bin\Debug\net6.0\Tracer.Serializetion.Xml.deps.json
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\bin\Debug\net6.0\Tracer.Serializetion.Xml.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\bin\Debug\net6.0\ref\Tracer.Serializetion.Xml.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\bin\Debug\net6.0\Tracer.Serializetion.Xml.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\bin\Debug\net6.0\Tracer.Core.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\bin\Debug\net6.0\Tracer.Serialization.Abstractions.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\bin\Debug\net6.0\Tracer.Core.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\Tracer.Serializetion.Xml.csproj.AssemblyReference.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\Tracer.Serializetion.Xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\Tracer.Serializetion.Xml.AssemblyInfoInputs.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\Tracer.Serializetion.Xml.AssemblyInfo.cs
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\Tracer.Serializetion.Xml.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\Tracer.Serializetion.Xml.csproj.CopyComplete
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\Tracer.Serializetion.Xml.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\ref\Tracer.Serializetion.Xml.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\obj\Debug\net6.0\Tracer.Serializetion.Xml.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serializetion.Xml\bin\Debug\net6.0\Tracer.Serialization.Abstractions.pdb

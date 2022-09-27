@@ -1,0 +1,17 @@
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.deps.json
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\ref\Tracer.Serialization.Yaml.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Core.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Abstractions.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Core.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.AssemblyReference.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.AssemblyInfoInputs.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.AssemblyInfo.cs
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.CopyComplete
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\ref\Tracer.Serialization.Yaml.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Abstractions.pdb

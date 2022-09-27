@@ -1,0 +1,17 @@
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\bin\Debug\net6.0\Tracer.Serialization.Json.deps.json
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\bin\Debug\net6.0\Tracer.Serialization.Json.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\bin\Debug\net6.0\ref\Tracer.Serialization.Json.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\bin\Debug\net6.0\Tracer.Serialization.Json.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\bin\Debug\net6.0\Tracer.Core.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\bin\Debug\net6.0\Tracer.Serialization.Abstractions.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\bin\Debug\net6.0\Tracer.Core.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\Tracer.Serialization.Json.csproj.AssemblyReference.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\Tracer.Serialization.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\Tracer.Serialization.Json.AssemblyInfoInputs.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\Tracer.Serialization.Json.AssemblyInfo.cs
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\Tracer.Serialization.Json.csproj.CoreCompileInputs.cache
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\Tracer.Serialization.Json.csproj.CopyComplete
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\Tracer.Serialization.Json.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\ref\Tracer.Serialization.Json.dll
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\obj\Debug\net6.0\Tracer.Serialization.Json.pdb
+C:\Users\eugen\source\repos\Tracer.Serialization\Tracer.Serialization.Json\bin\Debug\net6.0\Tracer.Serialization.Abstractions.pdb
